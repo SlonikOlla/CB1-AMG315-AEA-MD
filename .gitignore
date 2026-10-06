@@ -1,0 +1,49 @@
+# Simulation outputs and results
+results/
+systems/
+trajectories/
+outputs/
+figures/
+plots/
+tables/
+logs/
+slurm_logs/
+checkpoints/
+*.dcd
+*.xtc
+*.trr
+*.nc
+*.chk
+*.xml
+*.pdb
+*.gro
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.log
+*.out
+*.err
+
+# Large / generated archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
