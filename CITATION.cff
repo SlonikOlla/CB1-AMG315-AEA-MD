@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "CB1 AMG315-AEA molecular dynamics workflow"
+type: software
+authors:
+  - family-names: Kovalchuk
+    given-names: Igor
+repository-code: "https://github.com/SlonikOlla/CB1-AMG315-AEA-MD"
+license: MIT
+version: "0.1.0-pre-release"
+date-released: "2026-10-06"
